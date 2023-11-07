@@ -1,0 +1,3 @@
+AZURE_OPENAI_ENDPOINT="https://ft-gpt4-ai-dev-01.openai.azure.com/"
+AZURE_OPENAI_KEY="499e459ee5c6429d99ced65bf10f6067"
+AZURE_LOCATION="canadaeast"
